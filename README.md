@@ -21,3 +21,15 @@ A modern ETL pipeline for analyzing Uber trip data using Google Cloud services. 
 - **Other Tools:** Pandas, Jupyter Notebooks, SQL
 
 ---
+
+##  Architecture
+![Architecture Diagram](architecture.png)
+
+
+---
+
+
+## Looker Dashboard
+![image](https://github.com/user-attachments/assets/229ff11c-74d5-49ed-9501-3d4696ca18dd)
+
+
